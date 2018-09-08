@@ -1,0 +1,11 @@
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\bin\Debug\HotelDataAccess.dll.config
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\bin\Debug\HotelDataAccess.dll
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\bin\Debug\HotelDataAccess.pdb
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\obj\Debug\HotelDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\obj\Debug\HotelDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\obj\Debug\HotelDataAccess.dll
+C:\Users\bdeshpande\source\repos\HotelService\HotelDataAccess\obj\Debug\HotelDataAccess.pdb
